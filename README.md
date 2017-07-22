@@ -1,2 +1,3 @@
-# jenkins-ci
-Testing repo for the Jenkins triggers
+# Certified Jenkins Engineer (CJE) 2017
+
+Personal notes for the exam.
